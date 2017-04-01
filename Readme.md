@@ -1,5 +1,7 @@
 # Artifact Payments
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/artefact-server-payments.svg?token=bb2b0779ba74bbd9db60b986d14cd78f2c7747f8d9c2d5e1ecffaeedf69eb098)](https://greenkeeper.io/)
+
 Payments solution for Artefact server
 
 ## Overview
